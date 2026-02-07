@@ -1,0 +1,8 @@
+C:\Users\Hpoph\source\repos\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+C:\Users\Hpoph\source\repos\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+C:\Users\Hpoph\source\repos\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+C:\Users\Hpoph\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.csproj.AssemblyReference.cache
+C:\Users\Hpoph\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hpoph\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.csproj.CoreCompileInputs.cache
+C:\Users\Hpoph\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+C:\Users\Hpoph\source\repos\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
