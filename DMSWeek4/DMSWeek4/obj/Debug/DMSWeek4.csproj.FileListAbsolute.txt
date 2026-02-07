@@ -1,0 +1,12 @@
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\obj\Debug\DMSWeek4.csproj.AssemblyReference.cache
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\obj\Debug\DMSWeek4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\obj\Debug\DMSWeek4.Properties.Resources.resources
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\obj\Debug\DMSWeek4.csproj.GenerateResource.cache
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\obj\Debug\DMSWeek4.csproj.CoreCompileInputs.cache
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\bin\Debug\DMSWeek4.exe.config
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\bin\Debug\DMSWeek4.exe
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\bin\Debug\DMSWeek4.pdb
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\obj\Debug\DMSWeek4.exe
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\obj\Debug\DMSWeek4.pdb
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\obj\Debug\DMSWeek4.Form1.resources
+C:\Users\Hpoph\source\repos\DMSWeek4\DMSWeek4\obj\Debug\DMSWeek4.Form2.resources

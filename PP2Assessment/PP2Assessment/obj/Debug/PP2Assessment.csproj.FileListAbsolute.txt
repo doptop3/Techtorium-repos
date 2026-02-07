@@ -1,0 +1,11 @@
+C:\Users\Hpoph\source\repos\PP2Assessment\PP2Assessment\bin\Debug\PP2Assessment.exe.config
+C:\Users\Hpoph\source\repos\PP2Assessment\PP2Assessment\bin\Debug\PP2Assessment.exe
+C:\Users\Hpoph\source\repos\PP2Assessment\PP2Assessment\bin\Debug\PP2Assessment.pdb
+C:\Users\Hpoph\source\repos\PP2Assessment\PP2Assessment\obj\Debug\PP2Assessment.csproj.AssemblyReference.cache
+C:\Users\Hpoph\source\repos\PP2Assessment\PP2Assessment\obj\Debug\PP2Assessment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hpoph\source\repos\PP2Assessment\PP2Assessment\obj\Debug\PP2Assessment.Form1.resources
+C:\Users\Hpoph\source\repos\PP2Assessment\PP2Assessment\obj\Debug\PP2Assessment.Properties.Resources.resources
+C:\Users\Hpoph\source\repos\PP2Assessment\PP2Assessment\obj\Debug\PP2Assessment.csproj.GenerateResource.cache
+C:\Users\Hpoph\source\repos\PP2Assessment\PP2Assessment\obj\Debug\PP2Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Hpoph\source\repos\PP2Assessment\PP2Assessment\obj\Debug\PP2Assessment.exe
+C:\Users\Hpoph\source\repos\PP2Assessment\PP2Assessment\obj\Debug\PP2Assessment.pdb
